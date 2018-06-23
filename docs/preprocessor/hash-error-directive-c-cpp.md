@@ -18,7 +18,7 @@ The `#error` directive emits a user-specified error message at compile time and 
 ## Syntax  
   
 ```  
-#errortoken-string  
+#error token-string  
 ```  
   
 ## Remarks  
